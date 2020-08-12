@@ -1,2 +1,2 @@
 # deeplearning.ai
-This repo contains assignments and practice notebooks from Coursera's Deep Learning Specialization.
+This repository contains programming assignments from Coursera's Deep Learning Specialization.
